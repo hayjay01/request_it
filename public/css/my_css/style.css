@@ -1,0 +1,178 @@
+*{
+	font-family:"Trebuchet MS", "Roboto", helvetica, sans-serif, serif, times;
+}
+body{
+	height: 100%;
+	width:100%;
+	background-color: #f6f8f9;
+	/*overflow-x: hidden;*/
+}
+
+#search_control{
+	display: inline-block;
+	height:28px;
+	width:40%;
+}
+
+.sub_link{
+	color: gray;
+}
+
+.panel-default>.panel-heading{
+	background-color: #337ab7;
+	color: white;
+
+}
+
+.bg_grey{
+	background-color: #ccc;
+}
+
+.each_request:hover{
+	background-color: #fff;
+	border-radius: 5px;
+	border-radius: 10px;
+}
+
+.each_request{
+	/*background-color: #fff;*/
+}
+
+.link{
+	color: #333;
+	text-decoration: underline;
+}
+
+.sticky_nav{
+	position: fixed absolute;
+	z-index: 9999;
+	width: 100%;
+	/*top:-5;*/
+}
+#new_record{
+	background-color: #286080;
+	color: white;
+	width: 20%;
+}
+
+.txt_grey{
+	color: #777;
+}
+
+#plus_circle{
+	display: none;
+}
+
+.other_badge{
+	
+}
+
+.tbl_wrap{
+	/*border:solid 1px;*/
+}
+
+.ln_buttom{
+	/*border-bottom: solid;;*/
+}
+.first_head{
+	height: 70px;
+	padding-top: 20px;
+	/*padding-left: 20px;*/
+}
+
+.first_content{
+	margin-top: 100px;
+}
+
+.mg_top{
+	margin-top: 30px;
+}
+
+
+thead{
+	background-color: #F5F5F5;
+	/*color: #ffffff;*/
+	font-weight: 500;
+	font-size:13px;
+}
+.mg-10{
+	margin-top: 10px;
+}
+.brand-color{
+	/*color: #286090;*/
+	font-size: 16px;
+}
+.my-title{
+	font-size: 20px;
+}
+.well{
+	background-color: rgba(51,51,51,0.70);
+	box-shadow: 20px 20px 15px;
+}
+
+.txt_white{
+	color:white;
+}
+
+.txt_btn{
+	color: #286090;
+}
+
+.bg_nav{
+	background-color: #286090;
+}
+.txt_white ul,li{
+	display: inline-block;
+}
+
+.pd_top{
+	padding: 20px;
+}
+
+.navbar-default{
+	background-color: #286090; 
+}
+
+.navbar-default .navbar-nav li>a{
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav li>a:hover{
+	color:white;
+}
+
+.badge_notify{
+	color:white;
+	background-color: #FA3E3E;
+}
+
+
+.font_sm{
+	font-size: 12px;
+}
+.badge_count{
+	border-radius: 2px;
+	width: 30px;
+	border:solid 2px #286090;
+	background-color: red;
+	color: white;
+	/*height: 40px;*/
+
+}
+.navbar-default .navbar-nav .drop_menus li>a {
+	color: #777;
+}
+
+.navbar-default .navbar-nav .drop_menus li>a:hover{
+		background-color: #286090;
+		color: white;
+		border-top-right-radius: 4px;
+}
+
+
+
+
+.navbar-default .navbar-nav li>a{
+
+}
